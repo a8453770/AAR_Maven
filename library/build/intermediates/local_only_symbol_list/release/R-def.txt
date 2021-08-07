@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable bga_refresh_loding
+id iv_meituan_pull_down
+id iv_meituan_release_refreshing
+id iv_normal_refresh_footer_chrysanthemum
+id iv_normal_refresh_header_arrow
+id iv_normal_refresh_header_chrysanthemum
+id meiTuanView
+id moocView
+id stickinessRefreshView
+id tv_normal_refresh_footer_status
+id tv_normal_refresh_header_status
+layout view_normal_refresh_footer
+layout view_refresh_header_meituan
+layout view_refresh_header_mooc_style
+layout view_refresh_header_normal
+layout view_refresh_header_stickiness
+mipmap bga_refresh_loading01
+mipmap bga_refresh_loading02
+mipmap bga_refresh_loading03
+mipmap bga_refresh_loading04
+mipmap bga_refresh_loading05
+mipmap bga_refresh_loading06
+mipmap bga_refresh_loading07
+mipmap bga_refresh_loading08
+mipmap bga_refresh_loading09
+mipmap bga_refresh_loading10
+mipmap bga_refresh_loading11
+mipmap bga_refresh_loading12
+mipmap refresh_head_arrow

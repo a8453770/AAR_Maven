@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+apply from: '../uploadArchives.gradle'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        version "1.0.0"
+        versionCode 1
+        versionName "1.0"
+        minSdkVersion 16
+        targetSdkVersion 29
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    compileOnly 'androidx.recyclerview:recyclerview:1.1.0'
+    compileOnly 'androidx.legacy:legacy-support-v4:1.0.0'
+}
+
+// ./gradlew :library:clean :library:build :library:bintrayUpload -PpublishAar
+if (hasProperty("publishAar")) {
+    apply from: 'https://raw.githubusercontent.com/bingoogolapple/PublishAar/master/jcenter-release.gradle'
+}

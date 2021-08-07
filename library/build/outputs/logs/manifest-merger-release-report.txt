@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+	package
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:11-52
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+	android:versionCode
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml:1:1-54
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		ADDED from D:\MyTestMaven\library\src\main\AndroidManifest.xml
+		INJECTED from D:\MyTestMaven\library\src\main\AndroidManifest.xml

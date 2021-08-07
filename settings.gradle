@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "MyTestMaven"
+include ':easyPhotos'
+include ':indexablerecyclerview'
+include ':library'
